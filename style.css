@@ -9,16 +9,6 @@ section{
     width: 100%;
     
 }
-ul{
-    list-style: none;
-    display:flex;
-}
-ul li{
-    margin: 30px;
-    font-weight: bold;
-    font-size: 20px;
-    
-}
 .orange-tag{
     color: rgb(245, 115, 100);
 }
@@ -27,7 +17,7 @@ ul li{
     font-weight: 700;
     height: 0px;
     line-height:0ex;
-    position: relative;left: 25px;
+    
     font-style: normal;
    
 }
@@ -41,7 +31,7 @@ ul li{
     font-size: 40px;
     font-weight: 400;
     font-family: calibri;
-    position: relative;left: 20px;
+    
     color: gray;
     text-align: justify;
 }
@@ -55,7 +45,7 @@ ul li{
     border-radius: 7px;
     color: white;
     font-weight: 700;
-    position: relative;left: 25px;
+    
 }
 h2{
     font-weight: bold;
