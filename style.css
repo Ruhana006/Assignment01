@@ -9,6 +9,16 @@ section{
     width: 100%;
     
 }
+ul{
+    list-style: none;
+    display:flex;
+}
+ul li{
+    margin: 30px;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
 .orange-tag{
     color: rgb(245, 115, 100);
 }
