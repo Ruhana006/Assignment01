@@ -43,7 +43,7 @@ section{
     padding: 20px 30px;
     border-radius: 7px;
     color: white;
-    font-weight: 300;
+    font-weight: 700;
     position: relative;left: 25px;
 }
 h2{
@@ -59,6 +59,7 @@ h3{
     font-weight: 700;
     font-size: 50px;
 }
+
 .box-container{
     width:100%;
 }
@@ -108,4 +109,19 @@ h5{
     bottom:300px;
     margin-left: 1200px;
     padding-left: 20px;
+}
+.work-inquiry h4{
+    font-size: 30px;
+    color: gray;
+    font-weight: 700;
+    text-align:right;
+    top: 500px;
+    
+    
+}
+.work-inquiry h3{
+    position: relative;left: 700px;
+
+
+
 }
