@@ -24,7 +24,7 @@ section{
 .half-area{
     width: 40%;
     float: left;
-    margin: 3%;
+    margin: 4%;
 }
 .writting-part{
     font-style: normal;
@@ -33,9 +33,10 @@ section{
     font-family: calibri;
     position: relative;left: 20px;
     color: gray;
+    text-align: justify;
 }
 .half-area img{
-    width: 70%;
+    width: 80%;
 }
 .link-button{
     text-decoration: none;
@@ -90,38 +91,49 @@ h5{
     float: left;
 }
 .work-inquiry{
-    position: relative;
-    width: 100%; 
-    max-width: 1000px;
     float: left;
 }
-.work-inquiry img{
-    width: 100%;
-    height: auto;
-    margin-left: 40%;
-}
 #text{
-    color:white;
-    position: relative;left:27%;
-    bottom: 200px;
-}
-.work-inquiry .link-button{
-    bottom:300px;
-    margin-left: 1200px;
-    padding-left: 20px;
-}
-.work-inquiry h4{
-    font-size: 30px;
-    color: gray;
+    color: white;
     font-weight: 700;
-    text-align:right;
+    font-size: 40px;
+}
+#side-01{
+    margin-left: 0;
+    margin-top: 70px;
+}
+#side-02{
+    margin-left: 30%;
+    margin-top: 80px;
+}
+.last-part{
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 0;
+    padding-left: 5%;
+    
+}
+#stayconnect{
+    font-size: 30px;
+    font-weight: 700;
+    color: gray;
     top: 500px;
-    
-    
+    position: relative;right:600px;    
+}   
+#mail{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    position: relative;right: 700px;
+    top:550px ;
 }
-.work-inquiry h3{
-    position: relative;left: 700px;
+    
 
 
 
-}
+
+
