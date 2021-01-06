@@ -1,0 +1,111 @@
+body{
+    font-family: 'Roboto', sans-serif;
+} 
+
+section{
+    padding-bottom:300px ;
+    margin: 0;
+    height: 600px;
+    width: 100%;
+    
+}
+.orange-tag{
+    color: rgb(245, 115, 100);
+}
+.top-lines{
+    font-size: 60px;
+    font-weight: 700;
+    height: 0px;
+    line-height:0ex;
+    position: relative;left: 25px;
+    font-style: normal;
+   
+}
+.half-area{
+    width: 40%;
+    float: left;
+    margin: 3%;
+}
+.writting-part{
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: calibri;
+    position: relative;left: 20px;
+    color: gray;
+}
+.half-area img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(245, 115, 100);
+    padding: 20px 30px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 300;
+    position: relative;left: 25px;
+}
+h2{
+    font-weight: bold;
+    font-size: 50px;
+    text-align:center;
+}
+.second-part{
+    margin: auto;
+    display: inline-block;
+}
+h3{
+    font-weight: 700;
+    font-size: 50px;
+}
+.box-container{
+    width:100%;
+}
+.boxes{
+    width: 25%;
+    padding:5px;
+    float: left;
+    margin: 1%;
+}
+.works{
+    box-shadow: 2px 2px 4px gray;
+    border-radius: 10px;
+    padding: 20px 20px;
+    height: 90%;
+    float:left;
+}
+.boxes img{
+    width: 100%;
+}
+h5{
+    font-weight: bold;
+    font-size:25px;
+    float:left;
+}
+.works p{
+    font-size:25px ;
+    font-weight: 500;
+    float: left;
+}
+.work-inquiry{
+    position: relative;
+    width: 100%; 
+    max-width: 1000px;
+    float: left;
+}
+.work-inquiry img{
+    width: 100%;
+    height: auto;
+    margin-left: 40%;
+}
+#text{
+    color:white;
+    position: relative;left:27%;
+    bottom: 200px;
+}
+.work-inquiry .link-button{
+    bottom:300px;
+    margin-left: 1200px;
+    padding-left: 20px;
+}
